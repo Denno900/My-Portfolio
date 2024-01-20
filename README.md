@@ -19,7 +19,7 @@ My name is Mwaniki, a passionate Web Developer based in Syokimau. With a backgro
 - Technologies Used: ReactJS, Ruby on Rails, TailwindCSS
 - https://mysite-jzde.onrender.com/
 
-### Project 2: [Project Name 2]
+### Project 2: [Shoppers Haven]
 - Description: Shopper’s Haven is an online shopping tool that allows users to search for products across multiple e-commerce sites such as Amazon, eBay, Shopify, and Alibaba.
 - Technologies Used: ReactJS, PostgreSQL, CSS, Ruby on Rails
 - https://shopperhaven.netlify.app/
