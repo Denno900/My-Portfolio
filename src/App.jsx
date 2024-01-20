@@ -87,7 +87,7 @@ function App() {
               I am a Web Developer and Designer, bringing Creativity to life in the Digital realm. With a keen eye for Detail, I Transform Ideas into Visually Stunning and functionally flawless Websites.
             </p>
           </div>
-          <img className='my-5 aspect-square min-h-56 max-h-80 lg:rounded-md rounded-full mx-auto object-cover animate__animated animate__backInLeft' src="src/assets/IMG_4367.jpg" alt="my picture" />
+          <img className='my-5 aspect-square min-h-56 max-h-80 lg:rounded-md rounded-full mx-auto object-cover animate__animated animate__backInLeft' src="assets/IMG_4367.jpg" alt="my picture" />
           </div>
         </section>
         <section>
@@ -100,7 +100,7 @@ function App() {
           </div>
           <div className='sm:flex sm:flex-wrap gap-10 my-8'>
             <div className='my-3 mx-auto max-w-80 text-center hover-up dark:bg-gray-50 shadow-xl p-3 rounded-xl '>
-              <img className='mx-auto rounded-xl h-1/2' src="src/assets/webdesign.png" alt="" />
+              <img className='mx-auto rounded-xl h-1/2' src="assets/webdesign.png" alt="" />
               <h3 className='text-2xl font-medium pt-8 pb-2'>Beautiful Designs</h3>
               <p className='px-6'>
                 Creating elegant designs suited for your needs design theory.
@@ -112,7 +112,7 @@ function App() {
               </div>
             </div>
             <div className='my-3 mx-auto max-w-80 text-center hover-up dark:bg-gray-50 shadow-xl p-3 rounded-xl'>
-              <img className='mx-auto rounded-xl h-1/2' src="src/assets/responsive.png" alt="" />
+              <img className='mx-auto rounded-xl h-1/2' src="assets/responsive.png" alt="" />
               <h3 className='text-2xl font-medium pt-8 pb-2'>Responsive Websites</h3>
               <p className='px-6'>
                 Developing Websites that are seamlessly accessible from all devices.
@@ -124,7 +124,7 @@ function App() {
               </div>
             </div>
             <div className='my-3 mx-auto max-w-80 text-center hover-up dark:bg-gray-50 shadow-xl p-3 rounded-xl'>
-              <img className='mx-auto rounded-xl h-1/2 ' src="src/assets/database.png" alt="" />
+              <img className='mx-auto rounded-xl h-1/2 ' src="assets/database.png" alt="" />
               <h3 className='text-2xl font-medium pt-8 pb-2'>Functional Databases</h3>
               <p className='px-6'>
                 Building Databases that are secure and highly optimized.
@@ -151,7 +151,7 @@ function App() {
               </div>
             </div>
             <div className='basis-1/3 flex-1 rounded-lg shadow-lg '>
-              <img className='fade rounded-lg object-cover w-full' src="src/assets/cargoflow1.png" alt="" />
+              <img className='fade rounded-lg object-cover w-full' src="assets/cargoflow1.png" alt="" />
             </div>
             <div className='card-2 fade basis-1/3 flex-1 rounded-lg shadow-lg'>
               <div className='card-content rounded-lg h-full'>
@@ -160,7 +160,7 @@ function App() {
               </div>
             </div>
             <div className='basis-1/3 flex-1 rounded-lg shadow-lg'>
-              <img className='fade rounded-lg object-cover w-full' src="src/assets/shoppers1.png" alt="" />
+              <img className='fade rounded-lg object-cover w-full' src="assets/shoppers1.png" alt="" />
             </div>
             <div className='card-3 fade basis-1/3 flex-1 rounded-lg shadow-lg'>
               <div className="card-content rounded-lg h-full">
@@ -169,7 +169,7 @@ function App() {
               </div>
             </div>
             <div className='basis-1/3 flex-1 rounded-lg shadow-lg' >
-              <img className='fade rounded-lg object-cover w-full' src="src/assets/fittrack2.png" alt="" />
+              <img className='fade rounded-lg object-cover w-full' src="assets/fittrack2.png" alt="" />
             </div>
           </div>
         </div>
@@ -339,7 +339,7 @@ function App() {
             <div className="relative hidden w-0 flex-1 lg:block">
               <img
                 className="absolute inset-0 h-full w-full object-cover rounded-md"
-                src="src/assets/my-pic.jpg"
+                src="assets/my-pic.jpg"
                 alt=""
               />
             </div>
