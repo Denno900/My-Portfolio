@@ -36,6 +36,6 @@ My name is Mwaniki, a passionate Web Developer based in Syokimau. With a backgro
 Feel free to reach out to me! Whether you have a project idea, job opportunity, or just want to connect, you can contact me via:
 
 - **Email:** [mwaniksdenno@gmail.coom](mailto:mwaniksdenno@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/dennis-mwaniki-17a474269/)
+- **LinkedIn:** [Dennis Mwaniki](https://www.linkedin.com/in/dennis-mwaniki-17a474269/)
 
 Looking forward to hearing from you!
